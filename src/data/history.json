@@ -6,7 +6,22 @@
     "endDate": "Present",
     "experiences": ["Working on POS system"],
     "imageSrc": "history/Logo.png"
+  },
+  {
+    "role": "Studied at BCAS campus-Jaffna",
+    "organisation": "BCAS",
+    "startDate": "March, 2023",
+    "endDate": "January, 2025",
+    "experiences": ["HND in software engineering"],
+    "imageSrc": "history/bcas.png"
+  },
+  {
+    "role": "Works in Rainbow Digital Vision-Jaffna",
+    "organisation": "Rainbow",
+    "startDate": "July, 2019",
+    "endDate": "Present",
+    "experiences": ["Take professional photographs"],
+    "imageSrc": "history/rainbow.png"
   }
-  
   
 ]
