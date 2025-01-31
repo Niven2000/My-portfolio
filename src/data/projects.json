@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Royal book shop- billing system",
+    "imageSrc": "projects/BillingSystem.png",
+    "description": "A Java-based billing system built using JFrame for a user-friendly graphical interface to manage transactions efficiently",
+    "skills": ["Java"],
+    "demo": "https://github.com/Niven2000/Royal-Book-shop-billing-system",
+    "source": "https://github.com/Niven2000/Royal-Book-shop-billing-system"
+  },
+  {
+    "title": "Around Lanka-Tourism website",
+    "imageSrc": "projects/AroundLanka.png",
+    "description": "A dynamic tourism website, Around Lanka, developed using HTML, CSS, and JavaScript to showcase travel destinations and services.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://around-lanka.netlify.app/",
+    "source": "https://github.com/Niven2000/Around-Lanka-Tourism-website.git"
+  },
+  {
+    "title": "Clinic appointment management system",
+    "imageSrc": "projects/ClinicSystem.png",
+    "description": "A console-based clinic booking system developed in Java for managing patient appointments efficiently through a text-based interface.",
+    "skills": ["Java"],
+    "demo": "https://github.com/Niven2000/Clinic-appointment-management-system.git",
+    "source": "https://github.com/Niven2000/Clinic-appointment-management-system.git"
+  }
+]
